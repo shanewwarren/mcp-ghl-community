@@ -22,7 +22,7 @@ jobs:
           - os: macos-latest
             target: bun-darwin-arm64
             artifact: mcp-ghl-community-darwin-arm64
-          - os: macos-13
+          - os: macos-15-intel
             target: bun-darwin-x64
             artifact: mcp-ghl-community-darwin-x64
 
