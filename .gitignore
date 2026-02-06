@@ -176,3 +176,6 @@ dist
 
 # Compiled binary output
 bin/
+
+# Local MCP config
+.mcp.json
